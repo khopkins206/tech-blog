@@ -8,6 +8,7 @@
     "start": "node server.js",
     "seed": "node seeds/seed.js"
   },
+  "homepage": "https://github.com/khopkins206/tech-blog",
   "author": "",
   "license": "ISC",
   "dependencies": {
